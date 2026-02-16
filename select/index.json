@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "韻波句徒",
+  "base_artist": "CHEHON",
+  "createdAt": "2026-02-16T07:57:43.345966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "韻波句徒",
+      "artist": "CHEHON",
+      "has_synced": true,
+      "path": "select/01_韻波句徒_CHEHON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "韻波句徒 - From THE FIRST TAKE",
+      "artist": "Chehon",
+      "has_synced": true,
+      "path": "select/02_韻波句徒_-_From_THE_FIRST_TAKE_Chehon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "韻波句徒",
+      "artist": "CHEHON",
+      "has_synced": true,
+      "path": "select/03_韻波句徒_CHEHON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "韻波句徒",
+      "artist": "CHEHON",
+      "has_synced": true,
+      "path": "select/04_韻波句徒_CHEHON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "韻波句徒 (From THE FIRST TAKE)",
+      "artist": "CHEHON",
+      "has_synced": true,
+      "path": "select/05_韻波句徒_(From_THE_FIRST_TAKE)_CHEHON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "韻波句徒",
+      "artist": "CHEHON",
+      "has_synced": false,
+      "path": "select/pl_01_韻波句徒_CHEHON.txt"
+    }
+  ]
+}
